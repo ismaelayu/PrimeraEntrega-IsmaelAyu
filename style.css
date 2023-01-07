@@ -1,0 +1,55 @@
+.w-30 {
+    width: 30%;
+  }
+  ul {
+    overflow: hidden;
+    list-style: none;
+    display: inline-block;
+  }
+  nav {
+    background-color: black;
+    top: 0;
+    width: 100%;
+    text-align: left;
+  }
+  
+  ul li {
+   
+    float:left;
+  }
+  li a {
+    color: white;
+    display: block;
+    padding: 10px 20px;
+    text-decoration:none;
+    font-family:verdana;
+    border-radius: 4px;
+  
+  }
+
+.titulo_A {
+    font-size: 30px;
+    text-align: center;
+    font-family: Helvetica;
+    color: purple
+  }
+.titulo_B {
+    font-size:20px ;
+    text-align: left;
+    font-family: Helvetica;
+    color: grey
+}
+ body{
+    background-color: rgba(219, 243, 7, 0.568)
+ }
+ .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.foto1 {
+  display:flex
+}
+.foto2 {
+  display:left
+}
