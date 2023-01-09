@@ -1,3 +1,6 @@
+const pantalla = {modelo: "Iphone 7", calidad: "Premium", precio: "15000"} 
+console.log (pantalla) 
+
 function opcionPrincipal() {
 
     let total = 0
@@ -66,6 +69,7 @@ function comprarAccesorio() {
 }
 
 opcionPrincipal()
+
 
 
 
